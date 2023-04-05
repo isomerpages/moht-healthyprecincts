@@ -18,7 +18,7 @@ sections:
         - title: Boon Lay
           description: Important highlight B is equally important
           url: https://gmail.com
-        - title: Page A
+        - title: Contact Us
           description: Page A is important too
           url: /privacy/
   - infobar:
