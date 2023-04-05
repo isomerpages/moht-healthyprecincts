@@ -20,9 +20,4 @@ contacts:
       - email: healthy.precincts@moht.com.sg
       - other: ""
     title: General Enquiries
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
 ---
