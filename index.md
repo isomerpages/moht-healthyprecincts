@@ -23,10 +23,20 @@ sections:
         - title: Contact Us
           description: Page A is important too
           url: /privacy/
+      button: Learn more
+      url: hello
   - infobar:
       title: Infobar title
-      subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: Our Partners
+      subtitle: Infopic Subtitle
+      button: Button Text
+      alt: Image alt text
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
