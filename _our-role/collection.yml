@@ -2,7 +2,6 @@ collections:
   our-role:
     output: true
     order:
-      - Partner With Us.md
       - About MOHT.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
