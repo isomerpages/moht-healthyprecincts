@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  our-role:
     output: true
     order:
       - About MOHT.md
