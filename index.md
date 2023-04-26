@@ -12,7 +12,7 @@ sections:
       title: Healthy Precincts
       subtitle: A conducive environment, activated community and an integrated health
         and social ecosystem to support and sustain healthy lifestyles for all.
-      background: /images/hero-banner.png
+      background: /images/shawnanggg-xh0248k9hdy-unsplash_dark.jpg
       key_highlights:
         - title: About Healthy Precincts
           description: ""
