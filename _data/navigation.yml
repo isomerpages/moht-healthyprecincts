@@ -2,9 +2,12 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Healthy Precincts
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: Our Initiatives
     collection: our-role
+  - title: Our Locations
+    url: /permalink
+    sublinks:
+      - title: Submenu Title
+        url: /permalink
   - title: Contact Us
     url: /permalink
