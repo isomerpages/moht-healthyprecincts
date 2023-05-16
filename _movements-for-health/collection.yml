@@ -1,5 +1,5 @@
 collections:
-  our-role:
+  movements-for-health:
     output: true
     order:
       - About MOHT.md
