@@ -2,8 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Healthy Precincts
     url: /contact-us/
-  - title: Our Initiatives
-    collection: our-role
+  - title: Movements For Health
+    collection: movements-for-health
   - title: Our Locations
     url: /permalink
     sublinks:
