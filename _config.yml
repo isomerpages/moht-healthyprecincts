@@ -2,13 +2,13 @@ title: MOHT Healthy Precincts
 url: https://www.moht.com.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#88b5a3"
+  primary-color: "#58c0c4"
+  secondary-color: "#abb3af"
   media-colors:
     - title: media-color-one
-      color: "#88b5a3"
+      color: "#abb3af"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#58c0c4"
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
