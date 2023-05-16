@@ -2,19 +2,19 @@ title: MOHT Healthy Precincts
 url: https://www.moht.com.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#58c0c4"
-  secondary-color: "#abb3af"
+  primary-color: "#a8e6d9"
+  secondary-color: "#a6ada9"
   media-colors:
     - title: media-color-one
-      color: "#abb3af"
+      color: "#a6ada9"
     - title: media-color-two
-      color: "#58c0c4"
+      color: "#a8e6d9"
     - title: media-color-three
-      color: "#00838f"
+      color: "#58c0c4"
     - title: media-color-four
-      color: "#00838f"
+      color: "#58c0c4"
     - title: media-color-five
-      color: "#00838f"
+      color: "#58c0c4"
 description: A Healthy Precinct provides a conducive environment, activated
   community and an integrated health and social ecosystem to support and sustain
   healthy lifestyles for all.
