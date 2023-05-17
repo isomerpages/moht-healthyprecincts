@@ -24,9 +24,9 @@ links:
     url: /locations
     sublinks:
       - title: Boon Lay
-        url: /permalink
+        url: /boon-lay/intro
       - title: Yio Chu Kang
-        url: /permalink
+        url: /yiochukang/intro
   - title: Blog
     url: /blog/
   - title: Contact Us
