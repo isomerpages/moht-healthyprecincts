@@ -1,7 +1,12 @@
 logo: /images/healthy_precincts_logo_no bg.png
 links:
-  - title: About Healthy Precincts
-    url: /healthyprecincts/
+  - title: About
+    url: /about/
+    sublinks:
+      - title: About Healthy Precincts
+        url: /healthyprecincts/
+      - title: About MOHT
+        url: /moht/
   - title: Our Initiatives
     url: /ourinitiatives/
     sublinks:
@@ -22,5 +27,7 @@ links:
         url: /permalink
       - title: Yio Chu Kang
         url: /permalink
+  - title: Blog
+    url: /blog/
   - title: Contact Us
     url: /contact-us/
