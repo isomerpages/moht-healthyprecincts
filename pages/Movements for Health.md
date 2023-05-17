@@ -10,7 +10,7 @@ M4H focuses on *raising awareness of health, and encouraging the adoption and ad
 
 **Community Movement Champions**
 
-These Community Movement Champions (CMCs) are ground-up initiatives that empower and mobilise the community members to live a good life:
+Our Community Movement Champions (CMCs) are ground-up initiatives that empower and mobilise the community members to live a good life:
 * 3Pumpkins
 * Beyond Social Services
 * Green Nudge
