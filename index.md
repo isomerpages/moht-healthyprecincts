@@ -15,14 +15,14 @@ sections:
       background: /images/shawnanggg-xh0248k9hdy-unsplash_dark.jpg
       key_highlights:
         - title: About Healthy Precincts
-          description: ""
-          url: https://google.com
+          description: Find out more about us!
+          url: /healthyprecincts/
         - title: Boon Lay
-          description: Important highlight B is equally important
-          url: https://gmail.com
+          description: For the latest developments
+          url: /boonlay/
         - title: Contact Us
-          description: Page A is important too
-          url: /privacy/
+          description: Any questions?
+          url: /contact-us/
       button: Learn more
       url: /healthyprecincts/
   - infobar:
