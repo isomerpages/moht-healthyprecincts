@@ -35,6 +35,7 @@ sections:
       subtitle: Infopic Subtitle
       button: Button Text
       alt: Image alt text
+      image: /images/partners_draft.png
   - resources:
       title: Blog
       subtitle: our latest developments
