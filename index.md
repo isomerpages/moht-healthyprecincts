@@ -15,13 +15,13 @@ sections:
       background: /images/shawnanggg-xh0248k9hdy-unsplash_dark.jpg
       key_highlights:
         - title: About Healthy Precincts
-          description: Find out more about us!
+          description: Find out more about us
           url: /healthyprecincts/
         - title: Boon Lay
           description: Pioneering healthy precinct
           url: /boonlay/
         - title: Contact Us
-          description: Any questions?
+          description: We'd love to hear from you!
           url: /contact-us/
       button: Learn more
       url: /healthyprecincts/
