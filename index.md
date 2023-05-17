@@ -36,7 +36,7 @@ sections:
       button: Button Text
       alt: Image alt text
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Blog
+      subtitle: our latest developments
+      button: click for more
 ---
