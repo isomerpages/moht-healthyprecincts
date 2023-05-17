@@ -3,7 +3,7 @@ title: Movements for Health
 permalink: /m4h/
 description: ""
 ---
-Movements for Health (M4H) represents a ground-up approach that harnesses the momentum of social movements to sustain behaviour change for better health.
+**Movements for Health (M4H)** represents a ground-up approach that harnesses the momentum of social movements to sustain behaviour change for better health.
 
 M4H focuses on *raising awareness of health, and encouraging the adoption and advocacy of healthy behaviours* in the community.
 
