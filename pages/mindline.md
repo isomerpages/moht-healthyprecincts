@@ -9,15 +9,16 @@ Equipped with a clinically-validated self-assessment tool, various carefully cur
 
 **mindline.sg** addresses the need for a trusted platform to improve the wellbeing of people in Singapore through technology. Its key features include:
 
-1\. A clinically validated self-assessment tool
+1\. **A clinically validated self-assessment tool**
 
 The tool directs users to the most suitable resources, including both self-help links and helplines, based on their self-assessed level of stress and anxiety.  Referring users along these pathways of intervention and support streamlines access to care and support resources.
 
-2\. Wysa, an emotionally intelligent AI chatbot
+2\. **Wysa, an emotionally intelligent AI chatbot**
 
 Available 24/7, the chatbot enables users to share their emotions safely and anonymously without being judged, anywhere and anytime. It also provides users in Singapore with free access to a wide range of self-management and cognitive behavioural therapy exercises.
 
-3\. A compendium of customised local resources, direct hotlines and self-care exercises
+3\. **A compendium of customised local resources, direct hotlines and self-care exercises**
+
 A portfolio of resources carefully curated from various social and healthcare organisations, and span the following domains and themes:
 
 *   Helplines and counselling by phone
