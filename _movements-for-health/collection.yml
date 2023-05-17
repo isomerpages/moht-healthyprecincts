@@ -2,6 +2,7 @@ collections:
   movements-for-health:
     output: true
     order:
+      - Movements for Health.md
       - About MOHT.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
