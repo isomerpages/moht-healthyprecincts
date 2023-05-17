@@ -32,10 +32,11 @@ sections:
       url: /faq/
   - infopic:
       title: Our Partners
-      subtitle: Infopic Subtitle
-      button: Button Text
+      subtitle: the ones who made it happen
+      button: Click to find out more
       alt: Image alt text
       image: /images/partners_draft.png
+      url: /partners/
   - resources:
       title: Blog
       subtitle: our latest developments
