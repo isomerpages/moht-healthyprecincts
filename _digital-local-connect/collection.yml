@@ -1,4 +1,5 @@
 collections:
   digital-local-connect:
     output: true
-    order: []
+    order:
+      - Digital Local Connect.md
