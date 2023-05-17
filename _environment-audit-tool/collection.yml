@@ -1,0 +1,4 @@
+collections:
+  environment-audit-tool:
+    output: true
+    order: []
