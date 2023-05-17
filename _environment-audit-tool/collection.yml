@@ -2,4 +2,4 @@ collections:
   environment-audit-tool:
     output: true
     order:
-      - Environment Audit Tool.md
+      - About Environment Audit Tool.md
