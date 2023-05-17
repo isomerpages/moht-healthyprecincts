@@ -2,6 +2,7 @@ collections:
   boon-lay:
     output: true
     order:
+      - Discovery Walk in the Park.md
       - Garden2Gather.md
       - Healthy Precinct @ Boon Lay.md
       - Community Improvement Walk.md
