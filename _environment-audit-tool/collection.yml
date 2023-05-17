@@ -1,4 +1,5 @@
 collections:
   environment-audit-tool:
     output: true
-    order: []
+    order:
+      - Environment Audit Tool.md
