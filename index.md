@@ -19,7 +19,7 @@ sections:
           url: /healthyprecincts/
         - title: Boon Lay
           description: Pioneering healthy precinct
-          url: /boonlay/
+          url: /boon-lay/intro
         - title: Contact Us
           description: We'd love to hear from you!
           url: /contact-us/
