@@ -26,10 +26,8 @@ sections:
       button: Learn more
       url: /healthyprecincts/
   - infobar:
-      title: Infobar title
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: In a Healthy Precinct...
+      description: “I can see, feel, experience and help create health everywhere”
   - infopic:
       title: Our Partners
       subtitle: the ones who made it happen
