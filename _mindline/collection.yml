@@ -1,4 +1,5 @@
 collections:
   mindline:
     output: true
-    order: []
+    order:
+      - mindline.md
