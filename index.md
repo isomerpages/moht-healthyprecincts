@@ -24,7 +24,7 @@ sections:
           description: Page A is important too
           url: /privacy/
       button: Learn more
-      url: hello
+      url: /healthyprecincts/
   - infobar:
       title: Infobar title
       description: About a sentence worth of description here
