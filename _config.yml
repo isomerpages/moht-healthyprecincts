@@ -3,10 +3,10 @@ url: https://www.moht.com.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#accfc9"
-  secondary-color: "#a6ada9"
+  secondary-color: "#afafaf"
   media-colors:
     - title: media-color-one
-      color: "#a6ada9"
+      color: "#afafaf"
     - title: media-color-two
       color: "#accfc9"
     - title: media-color-three
