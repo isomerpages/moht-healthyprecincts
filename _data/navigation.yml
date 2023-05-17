@@ -3,9 +3,16 @@ links:
   - title: About Healthy Precincts
     url: /healthyprecincts/
   - title: Our Initiatives
-    collection: movements-for-health
-  - title: Our Locations
-    url: /permalink
+    url: /ourinitiatives/
+    sublinks:
+      - title: Digital Local Connect
+        url: /dlc/
+      - title: Mindline
+        url: /mindline/
+      - title: Movements for Health
+        url: /m4h/
+  - title: Locations
+    url: /locations
     sublinks:
       - title: Boon Lay
         url: /permalink
