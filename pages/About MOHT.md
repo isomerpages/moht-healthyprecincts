@@ -5,13 +5,13 @@ description: ""
 ---
 **MOH Office for Healthcare Transformation (MOHT)** is an MOH unit with a mission to shape the future of healthcare in Singapore.
 
-***Our approach***
+##### ***Our approach***
 
 We identify, develop and experiment with game-changing, systems-level concepts and innovations in the promotion of good health, prevention of illnesses and delivery of care. 
 
 We adopt an agile, collaborative approach with stakeholders and partners, using sandboxed test-beds and pilots in a small number of areas where fundamental change is critical for the effective transformation of the healthcare system, with the intention to scale these across the public healthcare system if successful.
   
-***Healthy Precincts***
+##### ***Healthy Precincts***
 
 **Healthy Precincts** is one of the key initiatives of MOHT, under the **Integrated Health Promotion (InHealth) Programme**.
 
