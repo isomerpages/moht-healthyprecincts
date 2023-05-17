@@ -1,4 +1,5 @@
 collections:
   boon-lay:
     output: true
-    order: []
+    order:
+      - Healthy Precinct @ Boon Lay.md
