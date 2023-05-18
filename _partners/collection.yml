@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Our Partners.md
       - Environment Audit Tool (EAT).md
       - Digital Local Connect (DLC).md
       - Movements for Health (M4H).md
