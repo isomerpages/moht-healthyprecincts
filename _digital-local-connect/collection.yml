@@ -2,4 +2,4 @@ collections:
   digital-local-connect:
     output: true
     order:
-      - Digital Local Connect.md
+      - About Digital Local Connect.md
