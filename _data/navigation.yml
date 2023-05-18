@@ -10,17 +10,15 @@ links:
   - title: Our Initiatives
     url: /ourinitiatives/
     sublinks:
-      - title: Digital Local Connect
-        url: /dlc/
-      - title: Environment Audit Tool
-        url: /eat-lite/
-      - title: Healthy Precincts Dashboard
-        url: /permalink
+      - title: Health & Social Collaboration
+        url: /facilitating-health-and-social-collaboration/
+      - title: Built Environment
+        url: /integrating-health-with-the-built-environment/
       - title: mindline.sg
         url: /mindline/
-      - title: Movements for Health
-        url: /m4h/
-  - title: Locations
+      - title: Capability Building
+        url: /capability-building-through-social-networks/
+  - title: Our Healthy Precincts
     url: /locations
     sublinks:
       - title: Boon Lay
