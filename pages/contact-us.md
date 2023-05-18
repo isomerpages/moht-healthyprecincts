@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: MOH Office of Healthcare Transformation
+agency_name: MOHT
 locations:
   - address:
       - MOHT
