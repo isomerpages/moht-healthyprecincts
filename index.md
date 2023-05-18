@@ -33,7 +33,7 @@ sections:
       subtitle: the ones who made it happen
       button: Click to find out more
       alt: Image alt text
-      image: /images/partners logos draft.png
+      image: /images/partners logos.png
       url: /partners/
   - resources:
       title: Blog
