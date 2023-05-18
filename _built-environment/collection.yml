@@ -2,4 +2,5 @@ collections:
   built-environment:
     output: true
     order:
+      - Environment Audit Tool/About Environment Audit Tool.md
       - Environment Audit Tool/.keep
