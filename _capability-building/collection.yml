@@ -2,4 +2,5 @@ collections:
   capability-building:
     output: true
     order:
+      - Movements for Health/About Movements for Health.md
       - Movements for Health/.keep
