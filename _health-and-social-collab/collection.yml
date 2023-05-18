@@ -1,4 +1,5 @@
 collections:
   health-and-social-collab:
     output: true
-    order: []
+    order:
+      - Digital Local Connect/.keep
