@@ -11,11 +11,11 @@ links:
     url: /ourinitiatives/
     sublinks:
       - title: Health & Social Collaboration
-        url: /health-and-social-collab/
+        url: /health-and-social-collab/intro
       - title: Built Environment
-        url: /built-environment/
+        url: /built-environment/intro
       - title: Capability Building
-        url: /capability-building/
+        url: /capability-building/intro
   - title: Our Healthy Precincts
     url: /locations
     sublinks:
