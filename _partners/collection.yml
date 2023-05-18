@@ -2,4 +2,4 @@ collections:
   partners:
     output: true
     order:
-      - Our Partners.md
+      - Movements for Health (M4H).md
