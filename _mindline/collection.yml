@@ -1,5 +1,0 @@
-collections:
-  mindline:
-    output: true
-    order:
-      - mindline.md
