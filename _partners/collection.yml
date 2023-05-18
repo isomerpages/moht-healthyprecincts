@@ -2,4 +2,5 @@ collections:
   partners:
     output: true
     order:
+      - Digital Local Connect.md
       - Movements for Health (M4H).md
