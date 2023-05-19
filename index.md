@@ -14,15 +14,12 @@ sections:
         and social ecosystem to support and sustain healthy lifestyles for all.
       background: /images/shawnanggg-xh0248k9hdy-unsplash_dark.jpg
       key_highlights:
-        - title: About Healthy Precincts
-          description: Find out more about us
-          url: /healthyprecincts/
-        - title: Boon Lay
-          description: Pioneering healthy precinct
+        - title: I am a Boon Lay resident
+          description: Activities for you!
           url: /boon-lay/intro
-        - title: Contact Us
-          description: We'd love to hear from you!
-          url: /contact-us/
+        - title: I am interested to collaborate
+          description: How can we work together?
+          url: /our-initiatives
       button: Learn more
       url: /healthyprecincts/
   - infobar:
