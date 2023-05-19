@@ -1,7 +1,0 @@
-collections:
-  partners:
-    output: true
-    order:
-      - Digital Local Connect (DLC).md
-      - Environment Audit Tool (EAT).md
-      - Healthy Precinct Dashboard.md
