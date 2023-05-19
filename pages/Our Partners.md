@@ -3,19 +3,19 @@ title: Our Partners
 permalink: /partners/
 description: ""
 ---
-#### **Movements for Health (M4H)**
+##### **Digital Local Connect (DLC)**
+
+##### **Environment Audit Tool (EAT)**
+
+##### **Healthy Precinct Dashboard**
+
+##### **Movements for Health (M4H)**
 ![](/images/partners%20logos%20draft.png)
-**Funders**
+**Supported By**
 * Tote Board
 * MOH Office for Healthcare Transformation
-
-**Fundraiser & Administrator**
 * The Majurity Trust
-
-**Community Coach**
 * Bold at Work
-
-**Research Partner**
 * NUS Saw Swee Hock School of Public Health
 
 **Community Movement Champions (CMCs)**
