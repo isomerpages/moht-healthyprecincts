@@ -2,5 +2,5 @@ collections:
   health-and-social-collab:
     output: true
     order:
-      - About Digital Local Connect.md
       - Facilitating Health and Social Collaborations.md
+      - About Digital Local Connect.md
