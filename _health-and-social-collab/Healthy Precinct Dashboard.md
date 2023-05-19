@@ -7,6 +7,6 @@ description: ""
 
 For example, the dashboard would help identify disease hotspots and opportunities in the built environment and community assets within the neighbourhood. 
 
-The dashboard is currently work in progress.  
+The dashboard is currently a work in progress.  
   
 **Reach out to us via healthy.precincts@moht.com.sg to learn how you can collaborate with us on the Healthy Precinct Dashboard!**
