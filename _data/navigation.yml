@@ -24,8 +24,12 @@ links:
       - title: Yio Chu Kang
         url: /yiochukang/intro
   - title: Our Partners
-    url: /partners/dlc/
-    sublinks: []
+    url: /partners/
+    sublinks:
+      - title: Digital Local Connect
+        url: /partners/dlc
+      - title: Environment Audit Tool
+        url: /partners/eat-lite
   - title: Blog
     url: /blog/
   - title: Contact Us
