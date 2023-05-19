@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Healthy Precinct Dashboard.md
       - Digital Local Connect (DLC).md
       - Environment Audit Tool (EAT).md
       - Movements for Health (M4H).md
