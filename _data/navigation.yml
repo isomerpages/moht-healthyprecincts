@@ -23,6 +23,9 @@ links:
         url: /boon-lay/intro
       - title: Yio Chu Kang
         url: /yiochukang/intro
+  - title: Our Partners
+    url: /partners/
+    sublinks: []
   - title: Blog
     url: /blog/
   - title: Contact Us
