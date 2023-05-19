@@ -2,5 +2,6 @@ collections:
   capability-building:
     output: true
     order:
+      - About Movements for Health.md
       - Capability building through Social Networks.md
       - Movements for Health/.keep
