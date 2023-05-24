@@ -13,5 +13,5 @@ description: ""
 * Discovery Walk in the Park
 * Garden2Gather
 
-**What are some examples of the healthcare services offered in Boon Lay?**
+**What are some of the healthcare services offered in Boon Lay?**
 * Community Health Posts
