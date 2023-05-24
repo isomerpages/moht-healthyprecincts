@@ -7,6 +7,12 @@ links:
         url: /healthyprecincts/
       - title: About MOHT
         url: /moht/
+      - title: Our Approach
+        url: /approach
+      - title: Our Framework
+        url: /framework
+      - title: FAQs
+        url: /faq
   - title: Our Initiatives
     url: /our-initiatives
     sublinks:
