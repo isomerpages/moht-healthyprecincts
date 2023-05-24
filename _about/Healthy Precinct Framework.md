@@ -5,6 +5,8 @@ description: ""
 ---
 **Healthy Precinct Framework (HPF)** illustrates the influence of key socio-environmental determinants of healthy behaviours within the community and environment. 
 
+![](/images/hp%20framework.png)
+
 It postulates that a healthy precinct should:
 
 * Create environments that facilitate healthy living  
