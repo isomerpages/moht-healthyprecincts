@@ -3,7 +3,7 @@ title: Frequent Asked Questions
 permalink: /about/faq/
 description: ""
 ---
-### ***FAQs***
+### **FAQs**
 
 **1\. Why Healthy Precincts?**<br>
 A precinct-based approach enables context-specific interventions, tailored to the needs of the residents to be delivered through volunteers, community groups and organizations. This approach engenders a high level of engagement and partnership to cultivate individual and community attitudes, values and norms which sustain health-promoting behaviours, and creates environments where healthy living is the default.
