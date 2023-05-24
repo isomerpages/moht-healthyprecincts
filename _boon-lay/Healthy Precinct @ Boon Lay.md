@@ -15,3 +15,5 @@ description: ""
 
 **What are some of the healthcare services offered in Boon Lay?**
 * Community Health Posts
+
+*Click on any of the sections to find out more!*
