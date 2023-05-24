@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Healthy Precincts Approach.md
       - Healthy Precinct Framework.md
       - About Healthy Precincts.md
       - About MOHT.md
