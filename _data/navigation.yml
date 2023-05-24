@@ -4,15 +4,15 @@ links:
     url: /about/
     sublinks:
       - title: About Healthy Precincts
-        url: /healthyprecincts/
+        url: /about/healthyprecincts/
       - title: About MOHT
-        url: /moht/
+        url: /about/moht/
       - title: Our Approach
-        url: /approach
+        url: /about/approach/
       - title: Our Framework
-        url: /framework
+        url: /about/framework/
       - title: FAQs
-        url: /faq
+        url: /about/faq/
   - title: Our Initiatives
     url: /our-initiatives
     sublinks:
