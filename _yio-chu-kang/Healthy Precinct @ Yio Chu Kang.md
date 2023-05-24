@@ -12,4 +12,4 @@ description: ""
 
 
 **What are some of the healthcare services offered in Yio Chu Kang?**
-* Community Health Posts
+* [Community Health Posts](/yio-chu-kang/chp)
