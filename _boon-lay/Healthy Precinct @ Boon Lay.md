@@ -9,7 +9,6 @@ description: ""
 * Boon Lay Wellness GameOnNILA! Trail
 * Community Improvement Walk
 
-
 **What activities would I see in my neighbourhood?**
 * Discovery Walk in the Park
 * Garden2Gather
