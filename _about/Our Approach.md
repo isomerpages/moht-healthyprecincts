@@ -3,7 +3,7 @@ title: Our Approach
 permalink: /about/approach/
 description: ""
 ---
-#### **Our Approach**
+#### ***Our Approach***
 
 Rather than relying on traditional healthcare partners, collective effort is required to improve population health. Therefore, it is important to empower communities and individuals to take charge of their own health.
 
@@ -17,7 +17,7 @@ Using a precinct-based approach, starting with Boon Lay as a pilot site, the Hea
     
 *   Convening an&nbsp;integrated care and support ecosystem&nbsp;to support and sustain health for all residents  
 
-##### **Healthy Precinct Framework**
+##### ***Healthy Precinct Framework***
 
 The **Healthy Precinct Framework** serves as a foundation to guide our Healthy Precinct work and has guided the application of the framework into 3 actionable domains.
 
