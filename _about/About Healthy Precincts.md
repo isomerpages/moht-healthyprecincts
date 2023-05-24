@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Healthy Precincts**
 
-A **Healthy Precinct** is a community designed for you to live your best life! It provides a conducive environment, activated community and an integrated health and social ecosystem to support and sustain healthy lifestyles for all.
+A **Healthy Precinct** is a community designed for you to live your best life!
 
 In a Healthy Precinct, you will:
 * Experience a neighbourhood built to promote your well-being
