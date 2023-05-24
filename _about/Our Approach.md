@@ -3,7 +3,7 @@ title: Our Approach
 permalink: /about/approach/
 description: ""
 ---
-#### ***Our Approach***
+### **Our Approach**
 
 Rather than relying on traditional healthcare partners, collective effort is required to improve population health. Therefore, it is important to empower communities and individuals to take charge of their own health.
 
