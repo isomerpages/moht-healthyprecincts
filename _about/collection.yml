@@ -2,8 +2,8 @@ collections:
   about:
     output: true
     order:
-      - Frequent Asked Questions.md
       - About Healthy Precincts.md
       - Healthy Precincts Approach.md
       - Healthy Precinct Framework.md
+      - Frequent Asked Questions.md
       - About MOHT.md
