@@ -3,7 +3,7 @@ title: Our Framework
 permalink: /about/framework/
 description: ""
 ---
-### ***Our Framework***
+### **Healthy Precinct Framework**
 **Healthy Precinct Framework (HPF)** illustrates the influence of key socio-environmental determinants of healthy behaviours within the community and environment. 
 
 ![](/images/hp%20framework.png)
