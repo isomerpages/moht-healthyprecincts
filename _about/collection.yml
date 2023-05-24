@@ -2,8 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Hello/About Healthy Precincts.md
-      - Hello/.keep
       - About MOHT.md
       - Our Approach.md
       - Our Framework.md
