@@ -20,8 +20,8 @@ sections:
         - title: I am interested to collaborate
           description: How can we work together?
           url: /our-initiatives
-      button: Learn more
-      url: /healthyprecincts/
+      button: Find out more
+      url: /about/healthy-precincts/
   - infobar:
       title: In a Healthy Precinct...
       description: “I can see, feel, experience and help create health everywhere”
