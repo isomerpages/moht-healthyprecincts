@@ -20,4 +20,4 @@ The CIW brought together adults, seniors and Persons with Disabilities (PwDs), a
 * OneBoonLay
 * SmartBFA
 
-With the support of Our Accessible City @ Boon Lay Neighbourhood workgroup.
+With the support of ***Our Accessible City @ Boon Lay Neighbourhood workgroup*** .
