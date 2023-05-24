@@ -4,6 +4,9 @@ permalink: /boon-lay/ciw/
 description: ""
 ---
 ##### **Community Improvement Walk**
+
+*The Community Improvement Walk in Boon Lay has been completed in 2022.*
+
 Facilitated by a guide, the **Community Improvement Walk (CIW)** allows residents to actively participate in recommending enhancements to the physical environment to improve walkability and accessibility within your neighbourhood.
 
 CIW employed both the *Environment Audit Tool (EAT)* and SmartBFA tools during the Boon Lay CIW in September 2022. These tools look into the residents’ interaction and insights with their built environment to inform town improvements, and use crowdsourced path accessibility data to provide quicker, barrier-free navigation for wheelchair users respectively.  
