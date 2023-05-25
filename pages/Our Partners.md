@@ -3,6 +3,21 @@ title: Our Partners
 permalink: /partners/
 description: ""
 ---
+
+
+
+| Partner | Initiatives Supported |
+| -------- | -------- |
+| URA   | DLC, EAT-Lite    |
+| [3Pumpkins](https://www.3pumpkins.co/) | M4H     |
+| [Beyond Social Services](https://www.beyond.org.sg/) | M4H |
+| [Green Nudge](https://www.greennudge.sg/)| M4H  |
+| [Hatch](https://www.hatch.sg/)| M4H |
+| [VintageRadio.SG](https://www.vintageradio.sg/#/)| M4H  |
+
+
+
+
 ##### **Digital Local Connect (DLC)**
 
 ##### **Environment Audit Tool (EAT)**
