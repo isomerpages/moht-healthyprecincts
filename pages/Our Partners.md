@@ -3,12 +3,9 @@ title: Our Partners
 permalink: /partners/
 description: ""
 ---
-
-
-
 | Partner | Initiatives Supported |
 | -------- | -------- |
-| URA   | DLC, EAT-Lite    |
+| Urban Redevelopment Authority   | DLC, EAT-Lite    |
 | [3Pumpkins](https://www.3pumpkins.co/) | M4H     |
 | [Beyond Social Services](https://www.beyond.org.sg/) | M4H |
 | [Green Nudge](https://www.greennudge.sg/)| M4H  |
