@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About MOHT/.keep
-      - About MOHT/About MOHT.md
+      - About MOHT/MOHT.md
       - About MOHT/About InHealth.md
       - About Healthy Precincts.md
       - Our Approach.md
