@@ -2,5 +2,5 @@ collections:
   built-environment:
     output: true
     order:
-      - Integrating Health with the Built Environment.md
+      - Integrating Health within Built Environment.md
       - Environment Audit Tool.md
