@@ -3,7 +3,13 @@ title: Boon Lay Wellness GameOnNILA! Trail
 permalink: /boon-lay/gameonnila/
 description: ""
 ---
-##### **Boon Lay Wellness GameOnNILA! Trail**
+### **Boon Lay Wellness GameOnNILA! Trail**
+
+##### **Latest Update**
+* *Boon Lay Wellness GameOnNiLA! Trail is ongoing in May & June 2023*
+
+
+##### **What is GameOnNILA! Trail?**
 A walking trail that takes residents through 10 health and wellbeing related landmarks within Boon Lay, with attractive prizes to be won.
   
 MOHT collaborated with ***SportSingapore GameOnNILA! (GON)*** and ***OneBoonLay***, to launch a **Discover Wellness @ Boon Lay Trail** since 01 July 2022.  
