@@ -7,7 +7,7 @@ description: ""
 
 Rather than relying on traditional healthcare partners, collective effort is required to improve population health. Therefore, it is important to empower communities and individuals to take charge of their own health.
 
-It is for this reason that&nbsp;[MOH Office for Healthcare Transformation (MOHT)](https://moht.com.sg/)&nbsp;has launched ***Healthy Precincts*** to foster an environment and culture that supports individuals to achieve and sustain healthy lifestyles.  
+Therefore, [MOH Office for Healthcare Transformation (MOHT)](https://moht.com.sg/)&nbsp;has launched ***Healthy Precincts*** to foster an environment and culture that supports individuals to achieve and sustain healthy lifestyles.  
 
 Using a precinct-based approach, starting with Boon Lay as a pilot site, the Healthy Precinct concept involves deep engagement with residents to understand their health-seeking behaviours and working collaboratively with Government, Grassroots Organizations (GRO), health and social care partners and communities to co-create interventions tailored to the needs of residents. This includes:  
 
@@ -25,4 +25,4 @@ The **Healthy Precinct Framework** serves as a foundation to guide our Healthy P
 2\. Capability building through social networks<br>
 3\. Integrating health within built environment**
 
-![](/images/hp%20framework.png)
+![](/images/green%20pastel%20minimalist%20perfect%20job%20venn%20diagram%20graph%20.png)
