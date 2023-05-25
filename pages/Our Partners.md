@@ -5,7 +5,12 @@ description: ""
 ---
 | Partner | Initiatives Supported |
 | -------- | -------- |
-| Urban Redevelopment Authority   | DLC, EAT-Lite |
+| Urban Redevelopment Authority  | DLC, EAT-Lite |
+| People's Association | DLC, M4H |
+| National University Health System | M4H |
+| Singapore University Design & Technology | EAT-Lite |
+| Health Promotion Board | M4H |
+| Sport Singapore | EAT-Lite |
 | Tote Board | M4H |
 | The Majurity Trust | M4H |
 | Bold at Work | M4H |
