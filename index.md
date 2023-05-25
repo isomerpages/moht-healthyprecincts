@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: MOHT Healthy Precincts
+title: Healthy Precincts
 description: A Healthy Precinct provides a conducive environment, activated
   community and an integrated health and social ecosystem to support and sustain
   healthy lifestyles for all.
