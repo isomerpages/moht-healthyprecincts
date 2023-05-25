@@ -5,8 +5,11 @@ description: ""
 ---
 | Partner | Initiatives Supported |
 | -------- | -------- |
-| Urban Redevelopment Authority   | DLC, EAT-Lite    |
-| [3Pumpkins](https://www.3pumpkins.co/) | M4H     |
+| Urban Redevelopment Authority   | DLC, EAT-Lite |
+| [Tote Board](https://www.toteboard.gov.sg/)| M4H |
+| [Hatch](https://www.hatch.sg/)| M4H |
+| [Hatch](https://www.hatch.sg/)| M4H |
+| [3Pumpkins](https://www.3pumpkins.co/) | M4H |
 | [Beyond Social Services](https://www.beyond.org.sg/) | M4H |
 | [Green Nudge](https://www.greennudge.sg/)| M4H  |
 | [Hatch](https://www.hatch.sg/)| M4H |
