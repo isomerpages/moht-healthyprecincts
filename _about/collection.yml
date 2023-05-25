@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Approach.md
-      - Joseph/.keep
       - About Healthy Precincts.md
       - About MOHT.md
       - Our Framework.md
