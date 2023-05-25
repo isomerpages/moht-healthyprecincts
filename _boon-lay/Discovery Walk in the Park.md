@@ -7,7 +7,7 @@ description: ""
 
 ##### **Latest Updates**
 * *Discovery Walk in the Park is ongoing*
-* *Schedule and sign ups [here](https://moht-hp.my.canva.site/_link/?link=https%3A%2F%2Fgo.gov.sg%2Factivehealth-walkinthepark&target=6QxvVRfTn6VZWBOS8nt7kyj51n6QwW%2Ft1r%2FNmraMHLRCQlnjjTXex2TgcKQM%2FSgV4UvscpNxTTV%2BnGnfDt63KtKgssmeZ64tCvvx2WFnvj1Hy4wiTnKeot3SFh4wu1rcHcPngUaDhcAPD1gTGFaB0ACabCM%3D&iv=%2FX9p4nxXUHqmGvMa)*
+* *Schedule and sign ups [here](https://form.gov.sg/62611ff7b91a650012ca595e)*
 
 ##### **What is Discovery Walk in the Park?**
 An opportunity for residents to keep fit while bonding with other nature enthusiasts in guided tours. The walk incorporates useful health tips and short exercises at scenic points.  
