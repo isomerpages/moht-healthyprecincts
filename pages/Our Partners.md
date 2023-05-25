@@ -12,17 +12,6 @@ description: ""
 | [Hatch](https://www.hatch.sg/)| M4H |
 | [VintageRadio.SG](https://www.vintageradio.sg/#/)| M4H  |
 
-
-
-
-##### **Digital Local Connect (DLC)**
-
-##### **Environment Audit Tool (EAT)**
-
-##### **Healthy Precinct Dashboard**
-
-##### **Movements for Health (M4H)**
-![](/images/partners%20logos%20draft.png)
 **Supported By**
 * Tote Board
 * MOH Office for Healthcare Transformation
