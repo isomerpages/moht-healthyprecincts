@@ -5,9 +5,9 @@ description: ""
 ---
 ### **Garden2Gather** 
 
-##### **Latest Updates**
+##### **Latest Updates & Sign Up**
 * *Garden2Gather is ongoing*
-* *Stay tuned on the [G2G Facebook Group](https://www.facebook.com/groups/garden2gather)!*
+* *Stay tuned and sign up for the latest workshops on the [G2G Facebook Group](https://www.facebook.com/groups/garden2gather)!*
 
 ##### **What is Garden2Gather?**
 Organizes gardening workshops for seniors to grow edible plants. It provides an opportunity for seniors to learn a hobby together and make friends while doing so.  
