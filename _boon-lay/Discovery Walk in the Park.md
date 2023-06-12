@@ -18,4 +18,4 @@ This guided tour incorporates both strength and cardio training (e.g., body weig
 
 Besides enjoying the therapeutic benefits of nature and outdoor exercise, residents will also be equipped with the knowledge, skills and motivation to organically organise and conduct similar walks for themselves and their neighbours!
 
-**Excited to find out more and participate? Sign up [here](https://moht-hp.my.canva.site/_link/?link=https%3A%2F%2Fgo.gov.sg%2Factivehealth-walkinthepark&target=6QxvVRfTn6VZWBOS8nt7kyj51n6QwW%2Ft1r%2FNmraMHLRCQlnjjTXex2TgcKQM%2FSgV4UvscpNxTTV%2BnGnfDt63KtKgssmeZ64tCvvx2WFnvj1Hy4wiTnKeot3SFh4wu1rcHcPngUaDhcAPD1gTGFaB0ACabCM%3D&iv=%2FX9p4nxXUHqmGvMa)!**
+**Excited to [find out more](https://www.activesgcircle.gov.sg/activehealth/seniors/active-health-walk-in-the-park) and participate? Sign up [here](https://moht-hp.my.canva.site/_link/?link=https%3A%2F%2Fgo.gov.sg%2Factivehealth-walkinthepark&target=6QxvVRfTn6VZWBOS8nt7kyj51n6QwW%2Ft1r%2FNmraMHLRCQlnjjTXex2TgcKQM%2FSgV4UvscpNxTTV%2BnGnfDt63KtKgssmeZ64tCvvx2WFnvj1Hy4wiTnKeot3SFh4wu1rcHcPngUaDhcAPD1gTGFaB0ACabCM%3D&iv=%2FX9p4nxXUHqmGvMa)!**
