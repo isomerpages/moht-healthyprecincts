@@ -3,7 +3,7 @@ title: Healthy Precinct @ Boon Lay
 permalink: /boon-lay/intro/
 description: ""
 ---
-### **I am looking for activities in Boon Lay!**
+### **Activities in Boon Lay**
 
 **What would I see in the Built Environment?**
 * [Boon Lay Wellness GameOnNILA! Trail](/boon-lay/gameonnila/)
