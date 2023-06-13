@@ -4,9 +4,7 @@ permalink: /about/about-moht/inhealth/
 description: ""
 third_nav_title: About MOHT
 ---
-### **Integrated Health Promotion**
-
-The **InHealth programme** focuses on novel strategies to:<br>
+The **Integrated Health Promotion (InHealth) Programme** focuses on novel strategies to:<br>
 a) improve health<br>
 b) promote and sustain behaviour change<br>
 c) prevent the onset and progression of disease amongst the population
