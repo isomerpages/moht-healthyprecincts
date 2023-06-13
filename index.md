@@ -13,18 +13,20 @@ sections:
       subtitle: A conducive environment, activated community and an integrated health
         and social ecosystem to support and sustain healthy lifestyles for all.
       background: /images/shawnanggg-xh0248k9hdy-unsplash_dark.jpg
-      key_highlights:
-        - title: I am a Boon Lay resident
-          description: Activities for you!
-          url: /boon-lay/intro
-        - title: I am interested to collaborate
-          description: How can we work together?
-          url: /our-initiatives
-      button: Find out more
-      url: /about/healthy-precincts/
+      dropdown:
+        title: I am a...
+        options:
+          - title: Boon Lay Resident
+            url: boon-lay/intro/
+          - title: Yio Chu Kang Resident
+            url: yio-chu-kang/intro/
+          - title: Collaborator
+            url: /our-initiatives
   - infobar:
       title: In a Healthy Precinct...
       description: “I can see, feel, experience and help create health everywhere”
+      button: Find out more
+      url: about/healthy-precincts
   - infopic:
       title: Our Partners
       subtitle: the ones who made it happen
