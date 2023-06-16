@@ -2,15 +2,15 @@ collections:
   our-initiatives:
     output: true
     order:
-      - Capacity Building/Movements for Health.md
-      - Capacity Building/Capability Building through Social Networks.md
-      - Capacity Building/.keep
-      - Built Environment/Environment Audit Tool.md
-      - Built Environment/Integrating Health within Built Environment.md
-      - Built Environment/.keep
+      - Our Initiatives.md
+      - Health & Social Collaborations/.keep
       - Health & Social Collaborations/Healthy Precinct Dashboard.md
       - Health & Social Collaborations/Digital Local Connect.md
       - Health & Social Collaborations/Facilitating Health and Social
         Collaborations.md
-      - Health & Social Collaborations/.keep
-      - Our Initiatives.md
+      - Built Environment/.keep
+      - Built Environment/Environment Audit Tool.md
+      - Built Environment/Integrating Health within Built Environment.md
+      - Capacity Building/.keep
+      - Capacity Building/Movements for Health.md
+      - Capacity Building/Capability Building through Social Networks.md
