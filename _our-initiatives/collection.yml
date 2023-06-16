@@ -2,5 +2,6 @@ collections:
   our-initiatives:
     output: true
     order:
+      - Environment Audit Tool.md
       - Integrating Health within Built Environment.md
       - Our Initiatives.md
