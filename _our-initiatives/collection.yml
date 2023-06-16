@@ -2,7 +2,6 @@ collections:
   our-initiatives:
     output: true
     order:
-      - Our Initiatives.md
       - Health & Social Collaborations/.keep
       - Health & Social Collaborations/Facilitating Health and Social
         Collaborations.md
