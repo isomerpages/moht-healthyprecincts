@@ -2,6 +2,7 @@ collections:
   healthy-precincts:
     output: true
     order:
+      - Boon Lay/.keep
       - Boon Lay Wellness GameOnNILA! Trail.md
       - Community Improvement Walk.md
       - Community Health Post.md
