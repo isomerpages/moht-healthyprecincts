@@ -2,7 +2,6 @@ collections:
   boon-lay:
     output: true
     order:
-      - Activities in Boon Lay/Garden2Gather.md
       - Activities in Boon Lay/Community Health Post.md
       - Activities in Boon Lay/Community Improvement Walk.md
       - Activities in Boon Lay/Boon Lay Wellness GameOnNILA! Trail.md
