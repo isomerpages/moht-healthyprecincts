@@ -1,4 +1,5 @@
 collections:
   healthy-precincts:
     output: true
-    order: []
+    order:
+      - Our Healthy Precincts.md
