@@ -2,6 +2,7 @@ collections:
   our-initiatives:
     output: true
     order:
+      - Healthy Precinct Dashboard.md
       - Digital Local Connect.md
       - Facilitating Health and Social Collaborations.md
       - Movements for Health.md
