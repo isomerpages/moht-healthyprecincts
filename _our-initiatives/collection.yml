@@ -2,6 +2,7 @@ collections:
   our-initiatives:
     output: true
     order:
+      - Built Environment/.keep
       - Health & Social Collaborations/Healthy Precinct Dashboard.md
       - Health & Social Collaborations/Digital Local Connect.md
       - Health & Social Collaborations/Facilitating Health and Social
