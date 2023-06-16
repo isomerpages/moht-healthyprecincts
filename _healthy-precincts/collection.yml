@@ -2,5 +2,6 @@ collections:
   healthy-precincts:
     output: true
     order:
+      - All Activities.md
       - Healthy Precinct @ Yio Chu Kang.md
       - Our Healthy Precincts.md
