@@ -1,5 +1,4 @@
 collections:
   capability-building:
     output: true
-    order:
-      - Movements for Health.md
+    order: []
