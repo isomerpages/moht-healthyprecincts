@@ -2,6 +2,8 @@ collections:
   our-initiatives:
     output: true
     order:
+      - Health & Social Collaborations/Facilitating Health and Social
+        Collaborations.md
       - Health & Social Collaborations/.keep
       - Healthy Precinct Dashboard.md
       - Digital Local Connect.md
