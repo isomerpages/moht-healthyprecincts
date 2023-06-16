@@ -2,12 +2,12 @@ collections:
   healthy-precincts:
     output: true
     order:
-      - Boon Lay/Community Health Post.md
-      - Boon Lay/Garden2Gather.md
-      - Boon Lay/Discovery Walk in the Park.md
-      - Boon Lay/Community Improvement Walk.md
-      - Boon Lay/Boon Lay Wellness GameOnNILA! Trail.md
-      - Boon Lay/All Activities.md
       - Boon Lay/.keep
+      - Boon Lay/All Activities.md
+      - Boon Lay/Boon Lay Wellness GameOnNILA! Trail.md
+      - Boon Lay/Community Improvement Walk.md
+      - Boon Lay/Discovery Walk in the Park.md
+      - Boon Lay/Garden2Gather.md
+      - Boon Lay/Community Health Post.md
       - Healthy Precinct @ Yio Chu Kang.md
       - Our Healthy Precincts.md
