@@ -2,6 +2,7 @@ collections:
   healthy-precincts:
     output: true
     order:
+      - Boon Lay/Community Health Post.md
       - Boon Lay/Garden2Gather.md
       - Boon Lay/Discovery Walk in the Park.md
       - Boon Lay/Community Improvement Walk.md
