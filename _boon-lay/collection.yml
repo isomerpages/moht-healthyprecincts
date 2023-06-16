@@ -1,5 +1,4 @@
 collections:
   boon-lay:
     output: true
-    order:
-      - Activities in Boon Lay/.keep
+    order: []
