@@ -2,6 +2,7 @@ collections:
   our-initiatives:
     output: true
     order:
+      - Facilitating Health and Social Collaborations.md
       - Movements for Health.md
       - Capability Building through Social Networks.md
       - Environment Audit Tool.md
