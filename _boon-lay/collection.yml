@@ -2,7 +2,6 @@ collections:
   boon-lay:
     output: true
     order:
-      - Activities in Boon Lay/All Activities.md
       - Activities in Boon Lay/Discovery Walk in the Park.md
       - Activities in Boon Lay/Garden2Gather.md
       - Activities in Boon Lay/Community Health Post.md
