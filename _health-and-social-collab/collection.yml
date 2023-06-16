@@ -2,6 +2,7 @@ collections:
   health-and-social-collab:
     output: true
     order:
+      - Health & Social Collaborations/Healthy Precinct Dashboard.md
       - Health & Social Collaborations/Digital Local Connect.md
       - Health & Social Collaborations/.keep
       - Facilitating Health and Social Collaborations.md
