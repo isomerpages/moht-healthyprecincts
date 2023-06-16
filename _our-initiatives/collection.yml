@@ -2,6 +2,7 @@ collections:
   our-initiatives:
     output: true
     order:
+      - Built Environment/Environment Audit Tool.md
       - Built Environment/Integrating Health within Built Environment.md
       - Built Environment/.keep
       - Health & Social Collaborations/Healthy Precinct Dashboard.md
