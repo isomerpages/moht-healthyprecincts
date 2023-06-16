@@ -2,6 +2,7 @@ collections:
   our-initiatives:
     output: true
     order:
+      - Capacity Building/Movements for Health.md
       - Capacity Building/Capability Building through Social Networks.md
       - Capacity Building/.keep
       - Built Environment/Environment Audit Tool.md
