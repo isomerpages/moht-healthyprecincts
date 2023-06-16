@@ -2,7 +2,6 @@ collections:
   our-healthy-precincts:
     output: true
     order:
-      - Our Healthy Precincts.md
       - Boon Lay/.keep
       - Boon Lay/All Activities.md
       - Boon Lay/Boon Lay Wellness GameOnNILA! Trail.md
