@@ -4,10 +4,10 @@ collections:
     order:
       - Our Initiatives.md
       - Health & Social Collaborations/.keep
-      - Health & Social Collaborations/Healthy Precinct Dashboard.md
-      - Health & Social Collaborations/Digital Local Connect.md
       - Health & Social Collaborations/Facilitating Health and Social
         Collaborations.md
+      - Health & Social Collaborations/Digital Local Connect.md
+      - Health & Social Collaborations/Healthy Precinct Dashboard.md
       - Built Environment/.keep
       - Built Environment/Environment Audit Tool.md
       - Built Environment/Integrating Health within Built Environment.md
