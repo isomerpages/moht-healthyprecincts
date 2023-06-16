@@ -1,5 +1,0 @@
-collections:
-  health-and-social-collab:
-    output: true
-    order:
-      - Health & Social Collaborations/.keep
