@@ -1,0 +1,4 @@
+collections:
+  healthy-precincts:
+    output: true
+    order: []
