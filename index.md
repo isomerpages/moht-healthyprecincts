@@ -10,8 +10,8 @@ notification: ""
 sections:
   - hero:
       title: Healthy Precincts
-      subtitle: A conducive environment, activated community and an integrated health
-        and social ecosystem to support and sustain healthy lifestyles for all.
+      subtitle: Learn more about the health initiatives in your neighborhood, or
+        collaborate to make your environment better!
       background: /images/shawnanggg-xh0248k9hdy-unsplash_dark.jpg
       dropdown:
         title: I am a...
@@ -21,7 +21,7 @@ sections:
           - title: Yio Chu Kang Resident
             url: yio-chu-kang/intro/
           - title: Collaborator
-            url: /our-initiatives
+            url: /health-and-social-collab/intro/
   - infobar:
       title: In a Healthy Precinct...
       description: “I can see, feel, experience and help create health everywhere”
