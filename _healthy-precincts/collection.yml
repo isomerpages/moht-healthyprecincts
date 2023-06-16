@@ -2,6 +2,7 @@ collections:
   healthy-precincts:
     output: true
     order:
+      - Yio Chu Kang/Healthy Precinct @ Yio Chu Kang.md
       - Yio Chu Kang/.keep
       - Boon Lay/.keep
       - Boon Lay/All Activities.md
