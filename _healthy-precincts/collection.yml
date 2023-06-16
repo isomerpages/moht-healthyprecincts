@@ -2,6 +2,7 @@ collections:
   healthy-precincts:
     output: true
     order:
+      - Community Health Post.md
       - Garden2Gather.md
       - Discovery Walk in the Park.md
       - All Activities.md
