@@ -2,6 +2,7 @@ collections:
   healthy-precincts:
     output: true
     order:
+      - Garden2Gather.md
       - Discovery Walk in the Park.md
       - All Activities.md
       - Healthy Precinct @ Yio Chu Kang.md
