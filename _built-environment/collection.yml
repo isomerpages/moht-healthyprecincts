@@ -1,5 +1,4 @@
 collections:
   built-environment:
     output: true
-    order:
-      - Environment Audit Tool.md
+    order: []
