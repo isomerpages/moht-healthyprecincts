@@ -14,13 +14,13 @@ sections:
         collaborate to make your environment better!
       background: /images/shawnanggg-xh0248k9hdy-unsplash_dark.jpg
       dropdown:
-        title: I am a...
+        title: I am looking for...
         options:
-          - title: Boon Lay Resident
+          - title: "activities in Boon Lay "
             url: boon-lay/intro/
-          - title: Yio Chu Kang Resident
+          - title: activities in Yio Chu Kang
             url: yio-chu-kang/intro/
-          - title: Collaborator
+          - title: partnerships & collaborations
             url: /health-and-social-collab/intro/
   - infobar:
       title: In a Healthy Precinct...
