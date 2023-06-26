@@ -45,6 +45,7 @@ sections:
       button: Read More
       url: /partners/
       alt: Image alt text
+      image: /images/desmond lee.jpg
   - infopic:
       title: Grassroot leader name
       subtitle: "Our Stories: Grassroot Leaders"
@@ -52,6 +53,7 @@ sections:
       button: Read more
       url: /partners/
       alt: Image alt text
+      image: /images/grassroot leaders.jpg
   - infopic:
       title: resident name
       subtitle: "Our Stories: Residents"
@@ -59,4 +61,5 @@ sections:
       button: read more
       url: /partners/
       alt: Image alt text
+      image: /images/bl residents.PNG
 ---
