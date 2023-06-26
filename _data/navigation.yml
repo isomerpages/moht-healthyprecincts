@@ -13,6 +13,13 @@ links:
         url: /about/framework/
       - title: FAQ
         url: /about/faq/
+  - title: Our Healthy Precincts
+    url: /boon-lay/intro/
+    sublinks:
+      - title: Boon Lay
+        url: /boon-lay/intro/
+      - title: Yio Chu Kang
+        url: /yio-chu-kang/intro/
   - title: Our Initiatives
     url: /health-and-social-collab/intro/
     sublinks:
@@ -22,13 +29,6 @@ links:
         url: /built-environment/intro
       - title: Capability Building
         url: /capability-building/intro
-  - title: Our Healthy Precincts
-    url: /boon-lay/intro/
-    sublinks:
-      - title: Boon Lay
-        url: /boon-lay/intro/
-      - title: Yio Chu Kang
-        url: /yio-chu-kang/intro/
   - title: Our Partners
     url: /partners/
   - title: Blog
