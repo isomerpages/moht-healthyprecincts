@@ -53,7 +53,7 @@ sections:
       url: /partners/
       alt: Image alt text
   - infopic:
-      title: Some resident
+      title: resident name
       subtitle: "Our Stories: Residents"
       description: '"some thing some resident says"'
       button: read more
