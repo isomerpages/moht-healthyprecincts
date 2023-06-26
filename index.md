@@ -28,6 +28,30 @@ sections:
       button: Find out more
       url: about/healthy-precincts
   - infopic:
+      title: Mr Desmond Lee
+      subtitle: "Our Stories: MP"
+      description: '"Something cool Mr Lee says"'
+      button: Read More
+      url: /partners/
+      alt: Mr Desmond Lee
+      image: /images/desmond lee.jpg
+  - infopic:
+      title: Grassroot leader name
+      subtitle: "Our Stories: Grassroot Leaders"
+      description: '"some thing the GRL says"'
+      button: Read more
+      url: /partners/
+      alt: Grassroot leaders
+      image: /images/grassroot leaders.jpg
+  - infopic:
+      title: resident name
+      subtitle: "Our Stories: Residents"
+      description: '"some thing some resident says"'
+      button: read more
+      url: /partners/
+      alt: residents
+      image: /images/bl residents.PNG
+  - infopic:
       title: Our Partners
       subtitle: the ones who made it happen
       button: Click to find out more
@@ -38,28 +62,4 @@ sections:
       title: Blog
       subtitle: our latest developments
       button: click for more
-  - infopic:
-      title: Mr Desmond Lee
-      subtitle: "Our Stories: MP"
-      description: '"Something cool Mr Lee says"'
-      button: Read More
-      url: /partners/
-      alt: Image alt text
-      image: /images/desmond lee.jpg
-  - infopic:
-      title: Grassroot leader name
-      subtitle: "Our Stories: Grassroot Leaders"
-      description: '"some thing the GRL says"'
-      button: Read more
-      url: /partners/
-      alt: Image alt text
-      image: /images/grassroot leaders.jpg
-  - infopic:
-      title: resident name
-      subtitle: "Our Stories: Residents"
-      description: '"some thing some resident says"'
-      button: read more
-      url: /partners/
-      alt: Image alt text
-      image: /images/bl residents.PNG
 ---
