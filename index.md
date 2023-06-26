@@ -16,7 +16,7 @@ sections:
       dropdown:
         title: I am looking for...
         options:
-          - title: "activities in Boon Lay "
+          - title: activities in Boon Lay
             url: boon-lay/intro/
           - title: activities in Yio Chu Kang
             url: yio-chu-kang/intro/
@@ -38,4 +38,25 @@ sections:
       title: Blog
       subtitle: our latest developments
       button: click for more
+  - infopic:
+      title: Mr Desmond Lee
+      subtitle: "Our Stories: MP"
+      description: '"Something cool Mr Lee says"'
+      button: Read More
+      url: /partners/
+      alt: Image alt text
+  - infopic:
+      title: Grassroot leader name
+      subtitle: "Our Stories: Grassroot Leaders"
+      description: '"some thing the GRL says"'
+      button: Read more
+      url: /partners/
+      alt: Image alt text
+  - infopic:
+      title: Some resident
+      subtitle: "Our Stories: Residents"
+      description: '"some thing some resident says"'
+      button: read more
+      url: /partners/
+      alt: Image alt text
 ---
