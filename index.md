@@ -24,9 +24,11 @@ sections:
             url: /health-and-social-collab/intro/
   - infobar:
       title: In a Healthy Precinct...
-      description: “I can see, feel, experience and help create health everywhere”
+      description: Come together to help to create an environment and culture that
+        supports people to achieve and sustain healthy lifestyles!
       button: Find out more
       url: about/healthy-precincts
+      subtitle: See, feel & experience health
   - infopic:
       title: Mr Desmond Lee
       subtitle: "Our Stories: MP"
