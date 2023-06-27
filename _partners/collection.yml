@@ -2,6 +2,6 @@ collections:
   partners:
     output: true
     order:
-      - Grassroot Leaders/.keep
-      - Volunteers/.keep
       - Our Community Partners.md
+      - Volunteers/.keep
+      - Grassroot Leaders/.keep
