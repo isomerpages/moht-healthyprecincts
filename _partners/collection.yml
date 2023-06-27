@@ -2,4 +2,5 @@ collections:
   partners:
     output: true
     order:
+      - Volunteers/.keep
       - Our Partners.md
