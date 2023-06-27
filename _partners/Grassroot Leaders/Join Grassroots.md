@@ -7,6 +7,7 @@ third_nav_title: Grassroot Leaders
 ### Boon Lay  
 **Thye Hua Kwan Moral Charities (THKMC)**
 <br>THKMC provides assistance to the various groups in our community through more than 70 programmes and services for the&nbsp;**elderly and the sick**,&nbsp;**families**,&nbsp;**persons with disabilities**, and&nbsp;**children.**
+<br>Volunteers are welcome to help us in existing programmes and activities or initiate meaningful projects that will help us reach out to the needy and underprivileged.
 
 Find out more [here](https://www.thkmc.org.sg/volunteer/)!
 
