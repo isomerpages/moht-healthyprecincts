@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Our Community Partners.md
+      - Volunteers/Join as a volunteer.md
       - Volunteers/.keep
       - Grassroot Leaders/.keep
