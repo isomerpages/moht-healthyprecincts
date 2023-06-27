@@ -31,6 +31,8 @@ links:
         url: /capability-building/intro
   - title: Blog
     url: /blog/
+  - title: Partners
+    collection: about
   - title: Contact Us
     url: /contact-us/
     sublinks:
