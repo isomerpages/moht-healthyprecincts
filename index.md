@@ -59,7 +59,7 @@ sections:
       button: Click to find out more
       alt: Image alt text
       image: /images/partners logos.png
-      url: /partners/
+      url: /partners/community-partners/
   - resources:
       title: Blog
       subtitle: our latest developments
