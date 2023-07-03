@@ -21,3 +21,5 @@ third_nav_title: Boon Lay
 *   [Community Health Posts](https://cms.isomer.gov.sg/boon-lay/chp/)
 
 _Click on any of the sections to find out more!_
+
+  <button name="button">Click me</button>
