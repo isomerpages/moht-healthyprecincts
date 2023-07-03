@@ -32,7 +32,7 @@ sections:
   - infopic:
       title: Mr Desmond Lee
       subtitle: "Our Stories: MP"
-      description: '"Something cool Mr Lee says"'
+      description: '"A quote from Mr Lee"'
       button: Read More
       url: /partners/
       alt: Mr Desmond Lee
@@ -40,7 +40,7 @@ sections:
   - infopic:
       title: Grassroot leader name
       subtitle: "Our Stories: Grassroot Leaders"
-      description: '"some thing the GRL says"'
+      description: '"A quote from a GRL"'
       button: Read more
       url: /partners/
       alt: Grassroot leaders
@@ -48,7 +48,7 @@ sections:
   - infopic:
       title: resident name
       subtitle: "Our Stories: Residents"
-      description: '"some thing some resident says"'
+      description: '"A quote from a resident"'
       button: read more
       url: /partners/
       alt: residents
