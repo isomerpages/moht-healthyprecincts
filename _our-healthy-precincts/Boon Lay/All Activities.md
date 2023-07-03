@@ -24,10 +24,10 @@ _Click on any of the sections to find out more!_
 
 
     
-      <img src="https://d33wubrfki0l68.cloudfront.net/94e4ea4c5c3358a933aa4db90339be11c5023ec6/e3d89/images/community/apps/activewallet.jpg" alt="Active Wallet">
+   <img src="https://d33wubrfki0l68.cloudfront.net/94e4ea4c5c3358a933aa4db90339be11c5023ec6/e3d89/images/community/apps/activewallet.jpg" alt="Active Wallet">
     	
     
-      	<a href="https://www.myactivesg.com/About-ActiveSG/myActiveSG-App" target="_blank">ActiveSG</a><br>
+   <a href="https://www.myactivesg.com/About-ActiveSG/myActiveSG-App" target="_blank">ActiveSG</a><br>
    <br>
 	Book workouts and sporting facilities as well as receive incentives through exciting fitness challenges and campaigns with the app. <br>
 	<br>
