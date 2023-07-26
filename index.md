@@ -10,8 +10,7 @@ notification: ""
 sections:
   - hero:
       title: Healthy Precincts
-      subtitle: Learn more about the health initiatives in your neighborhood, or
-        collaborate to make your environment better!
+      subtitle: Building a sustainable and healthy community for all
       background: /images/shawnanggg-xh0248k9hdy-unsplash_dark.jpg
       dropdown:
         title: I am looking for...
@@ -23,7 +22,7 @@ sections:
           - title: partnerships & collaborations
             url: /health-and-social-collab/intro/
   - infobar:
-      title: In a Healthy Precinct...
+      title: In a Healthy Precinct
       description: Come together to help to create an environment and culture that
         supports people to achieve and sustain healthy lifestyles!
       button: Find out more
