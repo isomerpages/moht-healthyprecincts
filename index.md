@@ -60,7 +60,6 @@ sections:
       image: /images/partners logos.png
       url: /partners/community-partners/
   - resources:
-      title: Blog
       subtitle: our latest developments
       button: click for more
 ---
