@@ -11,7 +11,7 @@ third_nav_title: Boon Lay
 * *Schedule and sign ups [here](https://form.gov.sg/62611ff7b91a650012ca595e)*
 
 ##### **What is Discovery Walk in the Park?**
-An opportunity for residents to keep fit while bonding with other nature enthusiasts in guided tours. The walk incorporates useful health tips and short exercises at scenic points.  
+Discovery Walk in the Park is an opportunity for residents to keep fit while bonding with other nature enthusiasts in guided tours. The walk incorporates useful health tips and short exercises at scenic points.  
 
 In collaboration with ***Sport Singapore (SportSG) Active Health Team***, the “Discovery Walk in the Park” programme in Boon Lay precinct sees SportSG Active Health coaches lead walks for residents in local parks.  
 
