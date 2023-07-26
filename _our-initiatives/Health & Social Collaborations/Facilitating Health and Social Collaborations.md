@@ -8,7 +8,7 @@ third_nav_title: Health & Social Collaborations
 
 Deliver **person-centric care and support** with a multi-disciplinary team in the community, through an integrated health and social ecosystem.
 
-**Examples of Tools:**
+**Available Resources:**
 
 * [Digital Local Connect (DLC)](/health-and-social-collab/dlc/)
 
