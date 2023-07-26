@@ -2,4 +2,5 @@ collections:
   stories:
     output: true
     order:
+      - Grassroots Leader.md
       - Member of Parliament.md
