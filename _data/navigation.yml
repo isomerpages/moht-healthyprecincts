@@ -1,0 +1,42 @@
+logo: /images/healthy_precincts_logo_no bg.png
+links:
+  - title: About
+    url: /about/healthy-precincts/
+    sublinks:
+      - title: About Healthy Precincts
+        url: /about/healthy-precincts/
+      - title: About MOHT
+        url: /about/about-moht/moht/
+      - title: Our Approach
+        url: /about/approach/
+      - title: Our Framework
+        url: /about/framework/
+      - title: FAQ
+        url: /about/faq/
+  - title: Our Healthy Precincts
+    url: /boon-lay/intro/
+    sublinks:
+      - title: Boon Lay
+        url: /boon-lay/intro/
+      - title: Yio Chu Kang
+        url: /yio-chu-kang/intro/
+  - title: Our Initiatives
+    url: /health-and-social-collab/intro/
+    sublinks:
+      - title: Health & Social Collaboration
+        url: /health-and-social-collab/intro
+      - title: Built Environment
+        url: /built-environment/intro
+      - title: Capability Building
+        url: /capability-building/intro
+  - title: Blog
+    url: /blog/
+  - title: Partners
+    collection: partners
+  - title: Contact Us
+    url: /contact-us/
+    sublinks:
+      - title: MOHT Office
+        url: /contact-us/
+      - title: Feedback
+        url: /feedback/

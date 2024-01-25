@@ -1,0 +1,15 @@
+collections:
+  our-initiatives:
+    output: true
+    order:
+      - Health & Social Collaborations/.keep
+      - Health & Social Collaborations/Facilitating Health and Social
+        Collaborations.md
+      - Health & Social Collaborations/Digital Local Connect.md
+      - Health & Social Collaborations/Healthy Precinct Dashboard.md
+      - Built Environment/.keep
+      - Built Environment/Integrating Health within Built Environment.md
+      - Built Environment/Environment Audit Tool.md
+      - Capacity Building/.keep
+      - Capacity Building/Capability Building through Social Networks.md
+      - Capacity Building/Movements for Health.md

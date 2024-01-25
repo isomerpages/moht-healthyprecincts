@@ -1,0 +1,13 @@
+collections:
+  our-healthy-precincts:
+    output: true
+    order:
+      - Boon Lay/.keep
+      - Boon Lay/All Activities.md
+      - Boon Lay/Boon Lay Wellness GameOnNILA! Trail.md
+      - Boon Lay/Community Improvement Walk.md
+      - Boon Lay/Discovery Walk in the Park.md
+      - Boon Lay/Garden2Gather.md
+      - Boon Lay/Community Health Post.md
+      - Yio Chu Kang/.keep
+      - Yio Chu Kang/All Activities.md
